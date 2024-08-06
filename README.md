@@ -75,6 +75,6 @@ For any questions or suggestions, please contact us at:
 
 Email: anishprakash149@gmail.com
 
-Website: www.riotz.com
+Website: https://react-portfolio-anish.vercel.app/
 
 GitHub: https://github.com/Anish0Prakash
